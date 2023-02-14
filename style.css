@@ -25,7 +25,7 @@ div{
     border: 25px;
     border-color: blue;
     border-style: solid;
-    width: 50px;
+    width: 100px;
     height: 40px;
     padding: 30px;
     border-top-left-radius: 25%;
@@ -37,6 +37,7 @@ div{
     margin-right: auto;
     margin-bottom: auto;
     margin-top: auto;
+    padding-bottom: 60px;
 }
 body{
     background-color: aqua;

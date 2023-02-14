@@ -10,3 +10,8 @@ function addingEventListener(){
 }
 const theButton=document.getElementById("button")
 addingEventListener(theButton)
+
+theButton.addEventListener('click',function(){
+    theButton.style.color='purple'
+    theButton.style.textDecoration='underline'
+})
